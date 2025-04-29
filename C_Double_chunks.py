@@ -28,3 +28,5 @@ for index in dict_count.values(): #o(m) -> iterasi daftar index di dict_count
             last_idx = idx #o(1) -> perbarui last idx 
 
     max_chunk=max(max_chunk,c) #o(1) -> perbarui nilai maximum 
+    
+print(max_chunk) #o(1) -> jumlah max double chunk 
