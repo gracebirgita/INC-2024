@@ -1,5 +1,7 @@
 # INC-2024
 
+TUGAS assignment sesi 16 Software Engineering (github)
+
 ## Description : 
 This repository contains the solution to one of the problems from the INC 2024 competition which is mandatory for the ADA (Algorithm Design and Analysis) course. During the competition, I fully contributed to the C (Double Chunks) problem and received accepted status on Vjudge. The source code contains an analysis of the complexity of each line of code and the total complexity of the entire code to deepen understanding related to program efficiency.
 
