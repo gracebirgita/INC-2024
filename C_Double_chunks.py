@@ -30,3 +30,6 @@ for index in dict_count.values(): #o(m) -> iterasi daftar index di dict_count
     max_chunk=max(max_chunk,c) #o(1) -> perbarui nilai maximum 
     
 print(max_chunk) #o(1) -> jumlah max double chunk 
+#total kompleksitas = 1 + n + 1 + n + 1 + 1 + 1 + 1 + 1 + m +  1 + 1 + k*m + 1 +1 + 1 + 1 + 1 
+
+#total kompleksitas= o(n+m*k)
